@@ -1,0 +1,10 @@
+pic {
+    transition: width 2s, height 4s; 
+}
+
+pic2:hover {
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+
+  }
